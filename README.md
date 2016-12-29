@@ -1,0 +1,2 @@
+# kenaz-template
+wordpress theme
